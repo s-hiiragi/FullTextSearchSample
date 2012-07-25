@@ -29,11 +29,16 @@ This app is a kind of a GUI version of grep.
 エディタのコマンドライン引数の設定例
 -----
 * サクラエディタ
-	-Y=${row} -VY=${row}
+
+    -Y=${row} -VY=${row}
+
 * K2Editor
-	/j${row} ${file}
+
+    /j${row} ${file}
+
 * Vim (gVim.exe)
-	+${row} ${file}
+
+    +${row} ${file}
 
 今後の予定
 -----
