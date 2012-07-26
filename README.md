@@ -58,5 +58,3 @@ Copyright &copy; 2012 s_hiiragi &lt; [http://github.com/s-hiiragi][my_github] &g
 
 PerlのJcode.pmをC#向けに移植したコードを使わせてもらっているので、
 Artistic Licenseで配布する予定です。
-
-TODO : 後でしっかりと書きなおす
